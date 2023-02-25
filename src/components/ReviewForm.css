@@ -33,3 +33,10 @@
   top: 15px;
   left: 30px;
 }
+
+.radio-container p {
+  font-style: italic;
+  font-weight: 300;
+  font-size: .8rem;
+  margin-top: .4rem;
+}

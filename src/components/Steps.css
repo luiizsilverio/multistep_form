@@ -26,6 +26,10 @@
   padding: 0.5rem;
 }
 
+.step p {
+  font-size: 14px;
+}
+
 .step svg {
   font-size: 1.6rem;
   margin-bottom: .2rem;
@@ -37,4 +41,8 @@
 
 .active > svg {
   fill: #7076f4;
+}
+
+.active > p {
+  color: #7076f4;
 }
